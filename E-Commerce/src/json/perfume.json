@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "title": "Aqua Di Gio",
+      "price": 89.99,
+      "description": "A crisp and aquatic fragrance with notes of sea breeze, citrus, and rosemary.",
+      "category": "perfume",
+      "image": "https://example.com/aqua-di-gio.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 210
+      }
+    },
+    {
+      "id": 2,
+      "title": "Dior Sauvage",
+      "price": 102.50,
+      "description": "A rugged, masculine scent with fresh bergamot and peppery notes over an amber base.",
+      "category": "perfume",
+      "image": "https://example.com/dior-sauvage.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 320
+      }
+    },
+    {
+      "id": 3,
+      "title": "Chanel No. 5",
+      "price": 130.00,
+      "description": "A timeless, classic fragrance with floral, aldehyde notes and a warm vanilla base.",
+      "category": "perfume",
+      "image": "https://example.com/chanel-no-5.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 150
+      }
+    },
+    {
+      "id": 4,
+      "title": "Tom Ford Noir",
+      "price": 115.99,
+      "description": "A dark and mysterious fragrance with notes of patchouli, vanilla, and amber.",
+      "category": "perfume",
+      "image": "https://example.com/tom-ford-noir.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 98
+      }
+    },
+    {
+      "id": 5,
+      "title": "Versace Eros",
+      "price": 85.00,
+      "description": "A vibrant and sensual fragrance with mint, vanilla, and green apple notes.",
+      "category": "perfume",
+      "image": "https://example.com/versace-eros.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 250
+      }
+    },
+    {
+      "id": 6,
+      "title": "Gucci Guilty",
+      "price": 99.50,
+      "description": "An alluring, aromatic fragrance with a fresh blend of lemon, lavender, and patchouli.",
+      "category": "perfume",
+      "image": "https://example.com/gucci-guilty.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 185
+      }
+    },
+    {
+      "id": 7,
+      "title": "Yves Saint Laurent La Nuit",
+      "price": 120.00,
+      "description": "A sensual and spicy fragrance with cardamom, lavender, and cedarwood.",
+      "category": "perfume",
+      "image": "https://example.com/ysl-la-nuit.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 300
+      }
+    },
+    {
+      "id": 8,
+      "title": "Paco Rabanne 1 Million",
+      "price": 105.00,
+      "description": "A bold fragrance with spicy cinnamon, leather, and amber notes.",
+      "category": "perfume",
+      "image": "https://example.com/1-million.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 260
+      }
+    },
+    {
+      "id": 9,
+      "title": "Calvin Klein Euphoria",
+      "price": 78.00,
+      "description": "A sweet and fruity fragrance with pomegranate, orchid, and amber notes.",
+      "category": "perfume",
+      "image": "https://example.com/ck-euphoria.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 160
+      }
+    },
+    {
+      "id": 10,
+      "title": "Dolce & Gabbana Light Blue",
+      "price": 92.50,
+      "description": "A fresh and citrusy scent with Sicilian lemon, jasmine, and cedarwood.",
+      "category": "perfume",
+      "image": "https://example.com/light-blue.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 215
+      }
+    },
+    {
+      "id": 11,
+      "title": "Burberry Brit",
+      "price": 87.00,
+      "description": "A modern fragrance with notes of pear, vanilla, and amber.",
+      "category": "perfume",
+      "image": "https://example.com/burberry-brit.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 145
+      }
+    },
+    {
+      "id": 12,
+      "title": "Hermes Terre d'Hermes",
+      "price": 120.00,
+      "description": "A woody and earthy scent with notes of vetiver, cedar, and orange.",
+      "category": "perfume",
+      "image": "https://example.com/terre-dhermes.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 230
+      }
+    },
+    {
+      "id": 13,
+      "title": "Bvlgari Man in Black",
+      "price": 110.00,
+      "description": "An intense fragrance with spices, leather, and rum notes.",
+      "category": "perfume",
+      "image": "https://example.com/man-in-black.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 190
+      }
+    },
+    {
+      "id": 14,
+      "title": "Jean Paul Gaultier Le Male",
+      "price": 98.00,
+      "description": "A masculine fragrance with mint, lavender, and vanilla notes.",
+      "category": "perfume",
+      "image": "https://example.com/le-male.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 170
+      }
+    },
+    {
+      "id": 15,
+      "title": "Montblanc Legend",
+      "price": 85.50,
+      "description": "A fresh and aromatic fragrance with pineapple, bergamot, and sandalwood.",
+      "category": "perfume",
+      "image": "https://example.com/legend.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 210
+      }
+    },
+    {
+      "id": 16,
+      "title": "Prada Luna Rossa",
+      "price": 99.99,
+      "description": "A clean and refreshing fragrance with lavender, mint, and orange.",
+      "category": "perfume",
+      "image": "https://example.com/luna-rossa.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 180
+      }
+    },
+    {
+      "id": 17,
+      "title": "Armani Code",
+      "price": 108.00,
+      "description": "A mysterious and seductive fragrance with tonka bean, tobacco, and leather.",
+      "category": "perfume",
+      "image": "https://example.com/armani-code.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 280
+      }
+    },
+    {
+      "id": 18,
+      "title": "Issey Miyake L'Eau d'Issey",
+      "price": 89.50,
+      "description": "A fresh and floral fragrance with lotus, lily, and sandalwood.",
+      "category": "perfume",
+      "image": "https://example.com/leau-dissey.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 190
+      }
+    },
+    {
+      "id": 19,
+      "title": "Creed Aventus",
+      "price": 330.00,
+      "description": "A luxurious fragrance with pineapple, blackcurrant, and oakmoss.",
+      "category": "perfume",
+      "image": "https://example.com/aventus.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 500
+      }
+    },
+    {
+      "id": 20,
+      "title": "Narciso Rodriguez For Him",
+      "price": 95.00,
+      "description": "A musky fragrance with violet, amber, and patchouli notes.",
+      "category": "perfume",
+      "image": "https://example.com/for-him.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 150
+      }
+    }
+  ]
+  
