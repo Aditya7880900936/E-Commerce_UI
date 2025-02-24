@@ -40,7 +40,7 @@
 // export default Shop
 
 
-import React, { useContext } from 'react';
+import React, { useContext, useState, useEffect  } from 'react';
 import { productContext } from '../Context/ProductContext';
 import { MdFilter4 } from 'react-icons/md';
 import Product from './Product';
@@ -49,15 +49,24 @@ const Shop = () => {
   const { products } = useContext(productContext);
   // console.log(products); // Debugging purpose
 
+  const [filterProducts, setFilterProducts] = useState([]);
+
   // Filter only if products is an array
-  const filterProducts = Array.isArray(products)
+  
+
+  useEffect(()=> {
+    setFilterProducts( Array.isArray(products)
     ? products.filter((item) => {
         return (
-          item.category === "perfume"
-   
+          item.category === "men's clothing" ||
+          item.category === "women's clothing" ||
+          item.category === 'jewelery' ||
+          item.category === 'electronics'
         );
       })
-    : [];
+    : []);
+    console.log(filterProducts)
+  }, [products])
 
   return (
     <section id="shop" className="max-padd-container py-20 bg-[#f8f7f4]">
